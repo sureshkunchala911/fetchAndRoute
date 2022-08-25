@@ -1,0 +1,38 @@
+/* Write your CSS code here */
+.author-pic {
+  height: 50px;
+  margin-right: 20px;
+  border-radius: 25px;
+}
+.blog-image {
+  height: 400px;
+  width: 95%;
+  margin-top: 20px;
+}
+.blog-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  margin-left: 40px;
+  padding: 40px;
+  padding-bottom: 30px;
+}
+.blog-details-title {
+  align-self: center;
+}
+.author-details {
+  padding-top: 20px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-bottom: 20px;
+}
+.details-author-name {
+  color: #d3d3d3;
+}
+.blog-content {
+  font-family: Roboto;
+  color: #2f4f4f;
+  padding-top: 20px;
+}
